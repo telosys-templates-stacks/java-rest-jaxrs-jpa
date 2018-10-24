@@ -1,0 +1,9 @@
+
+# Stack bundles :
+java7-commons-T300
+
+java7-web-rest-jaxrs1-T300
+
+java7-persistence-commons-T300
+java7-persistence-commons-jpa-T300
+java7-persistence-jpa-T300

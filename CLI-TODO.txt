@@ -1,0 +1,18 @@
+Like "bundles commands" 
+
+is  : install stack
+s   : print or set current stack
+lst : print stacks
+ds  : delete stack
+
+
+If "ls" = "List Stacks"
+
+"ls" --> "l" 
+"l" : list all 
+"l -f" or "lf" : list files
+"l -d" or "ld" : list directories
+
+GitHub :
+"lgh -s" : List GitHub stacks
+"gh" : print bundles org and stacks org
